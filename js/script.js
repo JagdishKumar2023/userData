@@ -74,5 +74,3 @@ function displayData() {
     tbody.append(tr);
   });
 }
-
-console.log(user_data);
